@@ -9,3 +9,5 @@ Coming soon.
 ## UX Journal
 
 [First Journal Entry](j01/)
+
+[Second Jounal Entry.](j02/)
